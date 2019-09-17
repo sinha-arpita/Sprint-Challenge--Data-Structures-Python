@@ -55,4 +55,5 @@ class LinkedList:
       if prev:
           print(prev.value)
       self.head = prev
+      
       return prev
